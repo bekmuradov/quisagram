@@ -31,11 +31,3 @@ yarn-error.log*
 *.ntvs*
 *.njsproj
 *.sln
-
-.editorconfig
-.postcssrc.js
-babel.config.js
-jsconfig.json
-quasar.conf.js
-src-pwa/
-src/
